@@ -22,4 +22,4 @@ Below are 4 observations from the "silver tsunami" analysis
 ## Summary
 Our analysis determined that Pewlett-Hackard has a high number of senior staff and engineers who are on the cusp of retirement which will require a significant amount of new employees to replace these roles. In order to best prepare new hires for their roles we have created a new mentorship program which will allow employees who have a significant amount of experience to share their knowledge and insight with new PH employees. This program will be eligible to active employees who were born between 1962 and 1966 and will offer them incentives for their participation in the program. By increasing our eligible mentors in the program we were able to better meet the rising hiring demand PH will endure due to the upcoming "Silver Tsunami."
 
-![Eligible Mentors](https://github.com/sbull32/Pewlett-Hackard-Analysis/blob/main/Analysis/updated_eligible_mentor_by_title.png)
+![Eligible Mentors](https://github.com/sbull32/Pewlett-Hackard-Analysis/blob/main/Analysis/updated_eligible_mentor_counts.png)
