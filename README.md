@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-Module 7
+Database Management
 
 ## Overview
 This analysis was conducted in order to better understand the Pewlett-Hackard workforce and to determine what needs Pewlett-Hackard may haver regarding replacing the upcoming "silver tsunami" of the baby-boomer generation retirements.
